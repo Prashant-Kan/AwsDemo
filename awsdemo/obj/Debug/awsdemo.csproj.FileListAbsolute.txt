@@ -1,0 +1,5 @@
+F:\WorkingProjects\awsdemo\awsdemo\bin\awsdemo.dll.config
+F:\WorkingProjects\awsdemo\awsdemo\bin\awsdemo.dll
+F:\WorkingProjects\awsdemo\awsdemo\bin\awsdemo.pdb
+F:\WorkingProjects\awsdemo\awsdemo\obj\Debug\awsdemo.dll
+F:\WorkingProjects\awsdemo\awsdemo\obj\Debug\awsdemo.pdb
